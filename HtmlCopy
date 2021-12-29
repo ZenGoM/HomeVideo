@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp HomeVideo.html /var/www/html
+sudo cp HomeVideo.js /var/www/html
